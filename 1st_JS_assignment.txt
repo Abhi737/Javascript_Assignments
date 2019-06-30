@@ -1,0 +1,20 @@
+1st program:-Simple intrest using javascript
+
+https://jsfiddle.net/2djur80L/
+
+2nd program:-Function to declare student information
+
+https://jsfiddle.net/2djur80L/
+ 
+				Javascript 2ND Assignment
+
+
+1st program:-  https://jsfiddle.net/Abhishek123_Kumar/smzbary6/3/
+
+2nd program:-  https://jsfiddle.net/Abhishek123_Kumar/9suLgha7/
+
+				Javascript 3rd Assignment
+
+1st program:-  https://jsfiddle.net/Abhishek123_Kumar/kmgju0dh/
+
+2nd program:-  https://jsfiddle.net/Abhishek123_Kumar/spre9jhx/

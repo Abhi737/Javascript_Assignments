@@ -1,0 +1,15 @@
+2nd program :-https://jsfiddle.net/Abhishek123_Kumar/Lr7fqsj0/
+
+3rd program :- https://jsfiddle.net/Abhishek123_Kumar/savrep7c/4/
+
+4th program :- https://jsfiddle.net/Abhishek123_Kumar/bfwj69kL/16/
+
+4th program 2nd SOlution :- https://jsfiddle.net/Abhishek123_Kumar/bfwj69kL/9/
+
+5th program :- https://jsfiddle.net/Abhishek123_Kumar/bfwj69kL/25/
+
+6th program :- https://jsfiddle.net/Abhishek123_Kumar/bfwj69kL/29/
+
+Javascript_assignments sum of 5 input integer
+
+https://jsfiddle.net/Abhishek123_Kumar/4nhse1qL/17/
